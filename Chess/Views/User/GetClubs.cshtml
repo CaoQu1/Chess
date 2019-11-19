@@ -1,0 +1,82 @@
+﻿
+@{
+    Layout = null;
+    var clubs = ViewBag.Clubs as List<Chess.DtoModel.ClubViewModel>;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" />
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+    <meta content="webkit" name="renderer">
+    <title>俱乐部列表</title>
+    @Html.Partial("_Header")
+</head>
+<body>
+    <div style="width:100%;height:1rem">
+        @*<label style="margin-top:1rem;color:#3cc51f"><< 新增俱乐部</label>*@
+    </div>
+    <table cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0px 10px;font-size:12px;width:100%;">
+        <thead style="border-spacing:0px 0px 10px 0px;">
+            <tr style="background-color:#1aad19;color:white;box-shadow:inset #1aad19 10px 10px;height:40px;">
+                <td width="34%" align="center">编号</td>
+                <td width="33%" align="center">名称</td>
+                <td width="33%" align="center">操作</td>
+            </tr>
+        </thead>
+        <tbody id="clubs">
+            @if (clubs != null && clubs.Any())
+            {
+                foreach (var item in clubs)
+                {
+                    <tr>
+                        <td width="34%" align="center">@item.Id</td>
+                        <td width="33%" align="center">@item.Name</td>
+                        <td width="33%" align="center">
+                            <a href="/user/AdminMange?clubid=@item.Id" style="color:#1aad19">详情</a>
+                            &nbsp;&nbsp;
+                            <a href="javascript:void(0);" onclick="clubHelper.delClub(@item.Id)" style="color:#ff0000">删除</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div style="width:100%;text-align:center;clear:both;margin-top:2rem;">
+        <a href="/user/adminmange" style="width:70%" class="weui-btn weui-btn_plain-primary">增加俱乐部</a>
+    </div>
+
+    @Html.Partial("_Scripts")
+</body>
+</html>
+<script type="text/javascript">
+    var clubHelper = {
+        delClub: function (id)
+        {
+            $.confirm("您确定要删除该俱乐部?", function ()
+            {
+                $.post("/user/deleteclub", { clubId: id }, function (result)
+                {
+                    if (result.IsSuccess)
+                    {
+                        $.toast(result.Message);
+                        window.location.reload(true);
+                    }
+                    else
+                    {
+                        $.toast(result.Message, "forbidden");
+                    }
+                });
+            }, function ()
+                {
+                });
+        }
+    }
+</script>

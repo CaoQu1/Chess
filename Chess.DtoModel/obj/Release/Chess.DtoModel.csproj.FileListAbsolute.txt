@@ -1,0 +1,10 @@
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\Chess.DtoModel.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\Chess.DtoModel.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\AutoMapper.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\System.ValueTuple.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\AutoMapper.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\AutoMapper.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\bin\Release\System.ValueTuple.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\obj\Release\Chess.DtoModel.csprojResolveAssemblyReference.cache
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\obj\Release\Chess.DtoModel.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.DtoModel\obj\Release\Chess.DtoModel.pdb

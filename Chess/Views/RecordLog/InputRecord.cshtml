@@ -1,0 +1,76 @@
+﻿
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+    <meta content="webkit" name="renderer">
+    <title>输入战绩</title>
+    @Html.Partial("_Header")
+    <link href="~/Content/RecordLog/ClubMember.css" rel="stylesheet" />
+</head>
+<body >
+    @*<div class="weui-cells weui_cells_form">
+            <div class="weui-cell">
+                <div class="weui-cell__bd weui-cell_primary">
+                    <input class="weui-input" type="text" value=" " placeholder="请粘贴战绩">
+                </div>
+            </div>
+        </div>*@
+    <div class="weui-cells weui-cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__bd">
+                <textarea class="weui-textarea" style="height:17rem" placeholder="请长按粘贴战绩" rows="3"></textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="SureClick" style="bottom:2rem;position:absolute;margin:0 auto;width:80%;left: 50%; margin-left: -40%;">
+        <a href="javascript:void(0);" class="weui-btn weui-btn_plain-primary" onclick="serch()">查询</a>
+        <a href="javascript:void(0);" class="weui-btn weui-btn_plain-primary" onclick="uploadImg()">上传名片</a>
+    </div>
+    @Html.Partial("_Scripts")
+    <script type="text/javascript">
+        function serch() {
+            //var value = $(".weui-input").val(),
+            //    param;
+            //if (value)
+            //    param = 'recordLogStr=' + value;
+            //var url = ['/RecordLog/GetRecordLog', param].join('?');
+            var str = $(".weui-textarea").val();
+            var arry = new Array();
+            debugger
+            if (str.indexOf("亲朋馆") == -1) {
+                arry = str.split(":");
+                var clubId = 0;
+                var roomIdStr = arry[1]; //roomid字符
+                var i = roomIdStr.indexOf("\n");  //空格出现位置
+                var roomId = roomIdStr.substring(0, i);
+            }
+            else {
+                arry = str.split(":");
+                var clubId = parseInt(arry[1]);
+                var roomIdStr = arry[2]; //roomid字符
+                var i = roomIdStr.indexOf("\n");  //空格出现位置
+                var roomId = roomIdStr.substring(0, i);
+            }
+            var url = '/RecordLog/GetRecordLog?clubId=' + clubId + '&roomId=' + roomId + '';
+            window.location.href = url;
+        }
+        function uploadImg() {
+            var url = '/RecordLog/GetRecordLog?';
+            window.location.href = url;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+﻿@using Chess.DtoModel
+@{
+    Layout = null;
+    var platforms = ViewBag.Platforms as List<Platform>;
+}
+@model RegisterParameter
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+    <meta content="webkit" name="renderer">
+    <title>注册</title>
+    @Html.Partial("_Header")
+    <style type="text/css">
+        .note {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div style="width:100%;height:1rem">
+        @*<label style="margin-top:1rem;color:#3cc51f"><< 俱乐部管理</label>*@
+    </div>
+    @using (Ajax.BeginForm("groupregister", new AjaxOptions { HttpMethod = "Post", OnSuccess = "callBack" }))
+    {
+        Html.AntiForgeryToken();
+        <div class="weui-cells weui-cells_form">
+            <div class="weui-cell weui-cell_select">
+                <div class="weui-cell__bd weui-cell_primary">
+                    <select class="weui-select" name="PlatformId">
+                        <option selected="" value="0">选择平台</option>
+                        @if (platforms != null && platforms.Any())
+                        {
+                            foreach (var item in platforms)
+                            {
+                                <option value="@item.Id">@item.PlatformName</option>
+                            }
+                        }
+                    </select>
+                    <p class="note">@Html.ValidationMessageFor(x => x.PlatformId)</p>
+                </div>
+            </div>
+            <div class="weui-cell">
+                <div class="weui-cell__hd"><label class="weui-label" for="AgentId">代理账号</label></div>
+                <div class="weui-cell__bd weui-cell_primary">
+                    @Html.TextBoxFor(x => x.AgentId, new { @class = "weui-input", @placeholder = "请输入代理账号" })
+                    <p class="note">@Html.ValidationMessageFor(x => x.AgentId)</p>
+                    @*<input class="weui_input" type="tel" placeholder="请输入代理账号" name="AgentId">*@
+                </div>
+            </div>
+            <div class="weui-cell">
+                <div class="weui-cell__hd"><label class="weui-label" for="AgentPassWord">代理密码</label></div>
+                <div class="weui-cell__bd weui-cell_primary">
+                    @Html.TextBoxFor(x => x.AgentPassWord, new { @class = "weui-input", @placeholder = "请输入代理密码", @type = "password" })
+                    <p class="note">@Html.ValidationMessageFor(x => x.AgentPassWord)</p>
+                    @*<input class="weui_input" type="password" placeholder="请输入代理密码" name="AgentPassWord">*@
+                </div>
+            </div>
+            @*<div class="weui_cell">
+                    <div class="weui_cell_hd"><label class="weui_label" for="ClubId">俱乐部编号</label></div>
+                    <div class="weui_cell_bd weui_cell_primary">
+                        @Html.TextBoxFor(x => x.ClubId, new { @class = "weui_input", @placeholder = "请输入俱乐部编号" });
+                        @Html.ValidationMessageFor(x => x.ClubId)
+                    </div>
+                </div>*@
+            @*<div class="weui-cell">
+                    <div class="weui-cell__hd"><label class="weui-label" for="CheckKey">校验字符串</label></div>
+                    <div class="weui-cell__bd weui-cell_primary">
+                        @Html.TextBoxFor(x => x.CheckKey, new { @class = "weui-input", @placeholder = "请输入校验字符串" })
+                        <p class="note">@Html.ValidationMessageFor(x => x.CheckKey)</p>
+                    </div>
+                </div>*@
+
+        </div>
+        <div class="weui-btn-area">
+            <button class="weui-btn weui-btn_primary" type="submit">确定</button>
+        </div>
+    }
+    @Html.Partial("_Scripts")
+</body>
+</html>
+<script type="text/javascript">
+    function callBack(result) {
+        if (result.IsSuccess) {
+            $.toast(result.Message + "即将跳转...", "text");
+            setTimeout(function () {
+                window.location.href = "/user/getclubs";
+            }, 2000);
+        }
+        else {
+            $.toast(result.Message, "forbidden");
+        }
+    }
+</script>

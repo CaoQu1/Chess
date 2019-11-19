@@ -1,0 +1,35 @@
+﻿<form method="post" action="/common/upload" enctype="multipart/form-data" id="upload">
+    <div class="weui-cells weui-cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__bd">
+                <div class="weui-uploader">
+                    <div class="weui-uploader__hd">
+                        <p class="weui-uploader__title">收款二维码上传</p>
+                    </div>
+                    <div class="weui-uploader__bd">
+                        <ul class="weui-uploader__files" id="uploaderFiles">
+                            <li class="weui-uploader__file weui-uploader__file_status">
+                            </li>
+                        </ul>
+                        <div class="weui-uploader__input-box">
+                            <input id="uploaderInput" class="weui-uploader__input" type="file" accept="image/*" multiple="" name="file">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<script type="text/javascript">
+    $(document).on("change", "#uploaderInput", function ()
+    {
+        var reader = new FileReader();
+        reader.onload = function (evt)
+        {
+            $(".weui-uploader__file_status").html('<img src=' + evt.target.result + ' width="90px" height="90px"/>');
+        }
+        reader.readAsDataURL(this.files[0]);
+        $("#upload").submit();
+    });
+</script>

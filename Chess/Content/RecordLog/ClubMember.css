@@ -1,0 +1,77 @@
+﻿        .topTime {
+            width: 48%;
+            float: left;
+            text-align: right;
+        }
+
+        .navbar {
+            width: 100%;
+            height: 1.5rem;
+            margin-top: 1rem;
+            background-color: #3cc51f;
+        }
+
+        .navbarCt {
+            float: left;
+            width: 33%;
+            height: 100%;
+            border-right: 1px solid #fff;
+            text-align: center;
+            line-height: 1.5rem;
+            color: #fff;
+        }
+
+        .playerList {
+            width: 100%;
+            height: 1.5rem;
+            clear: both;
+            margin-top: 1.5rem;
+        }
+
+        .playerLeft {
+            float: left;
+            width: 40%;
+            height: 100%;
+            line-height: 2rem;
+        }
+
+        .playerLeftImg {
+            float: left;
+            width: 2rem;
+            height: 2rem;
+        }
+
+        .playerLeftName {
+            float: left;
+            font-size: 0.5rem;
+            line-height: 1rem;
+            margin-left: 0.1rem;
+        }
+
+        .playerMid {
+            float: left;
+            width: 27%;
+            height: 100%;
+            line-height: 1.5rem;
+            text-align: right;
+        }
+
+        .score {
+            float: left;
+            line-height: 1.5rem;
+        }
+
+        .playRight {
+            float: left;
+            width: 33%;
+            height: 100%;
+            line-height: 1.5rem;
+            text-align: center;
+        }
+
+        .SureClick {
+            width: 80%;
+            margin: 0 auto;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }

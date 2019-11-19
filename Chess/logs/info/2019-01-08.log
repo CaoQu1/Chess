@@ -1,0 +1,3496 @@
+时间:2019-01-08 00:00:01,823 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>Register>>>>>>>,return_url=>http://score.mxiong.com.cn/User/ThridCallback?returnUrl=GroupRegister, session_url=> 
+
+时间:2019-01-08 00:00:01,944 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,userid=>702347,gameid=>702557 
+
+时间:2019-01-08 00:00:05,634 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,systemUser.UserId=>702347,returnUrl=>GroupRegister 
+
+时间:2019-01-08 00:00:05,635 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>,value=>,1,GroupOwner 
+
+时间:2019-01-08 00:00:05,641 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>SUCCESS!!!!! 
+
+时间:2019-01-08 00:00:05,792 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:00:05,795 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:06,024 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:06,024 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:06,188 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:06,189 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:06,366 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:06,366 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>9ea3313e-e1f9-4ac2-9149-f7639f8afa7a,current_user.AgentId=> 
+
+时间:2019-01-08 00:00:06,366 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:06,526 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:06,529 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:06,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:16,844 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>Register>>>>>>>,return_url=>http://score.mxiong.com.cn/User/ThridCallback?returnUrl=GroupRegister, session_url=> 
+
+时间:2019-01-08 00:00:21,613 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>Register>>>>>>>,return_url=>http://score.mxiong.com.cn/User/ThridCallback?returnUrl=GroupRegister, session_url=> 
+
+时间:2019-01-08 00:00:30,903 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,userid=>702347,gameid=>702557 
+
+时间:2019-01-08 00:00:34,064 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,systemUser.UserId=>702347,returnUrl=>GroupRegister 
+
+时间:2019-01-08 00:00:34,554 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>,value=>,1,GroupOwner 
+
+时间:2019-01-08 00:00:34,555 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>SUCCESS!!!!! 
+
+时间:2019-01-08 00:00:36,456 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:00:36,456 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:36,511 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:36,511 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:36,570 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:36,570 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:36,624 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:36,624 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>f9d6655f-2297-43d0-a078-6b937187ccad,current_user.AgentId=> 
+
+时间:2019-01-08 00:00:36,624 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:36,680 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:36,680 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:36,734 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:59,940 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:00:59,941 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:00:59,995 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:00:59,995 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:00,048 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:00,048 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:00,110 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:00,110 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>7819ff4b-f259-4310-bf1b-5f5ca1dfa6d9,current_user.AgentId=> 
+
+时间:2019-01-08 00:01:00,110 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:00,164 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:00,195 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:00,252 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:00,252 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:01:00,312 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:01:00,448 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:01:12,537 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:01:12,537 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:12,593 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:12,593 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:12,648 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:12,648 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:12,701 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:12,701 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>3f586d77-0dda-4a61-acd6-fc8bb518ebaf,current_user.AgentId=> 
+
+时间:2019-01-08 00:01:12,701 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:12,754 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:15,561 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:15,625 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:01:19,602 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:19,679 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:19,746 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:19,833 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,085 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,170 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,234 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,321 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,561 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,648 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,713 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:20,801 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:21,030 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:21,096 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:21,184 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:21,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:01:28,590 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:01:31,445 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:01:31,537 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:02:47,904 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:02:47,904 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:02:47,958 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:02:47,958 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:02:48,012 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:02:48,012 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:02:48,071 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:02:48,071 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>e1ae2ab9-c9c9-4368-88e3-bf425d49c658,current_user.AgentId=> 
+
+时间:2019-01-08 00:02:48,071 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:02:48,125 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:02:50,801 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:02:50,879 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:02:51,213 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:02:52,737 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:02:52,825 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:06:51,359 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:06:51,359 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:51,417 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:51,417 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:51,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:51,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:51,528 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:51,528 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>e517bf39-f02f-449a-9091-f5f88a7360db,current_user.AgentId=> 
+
+时间:2019-01-08 00:06:51,528 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:51,598 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:52,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:52,539 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:52,539 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:06:52,597 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:06:52,711 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:06:56,998 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:06:56,998 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:57,054 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:57,054 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:57,110 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:57,110 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:57,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:06:57,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>3a6f901c-a82f-4ae4-a7e4-23c7f6f217a6,current_user.AgentId=> 
+
+时间:2019-01-08 00:06:57,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:06:57,222 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:01,762 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:01,831 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:01,831 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:07:01,888 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:07:01,936 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:07:02,286 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:07:02,286 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:02,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:02,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:02,397 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:02,397 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:02,453 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:02,453 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>17edf066-9050-4426-a121-6fdbb0d82115,current_user.AgentId=> 
+
+时间:2019-01-08 00:07:02,453 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:02,509 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:07:03,224 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:07:03,291 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:39,542 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:08:39,542 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:08:39,599 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:39,599 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:08:39,655 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:39,655 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:08:39,719 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:39,719 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>cf00d2e1-9ba4-4cc1-b2ef-400eacd98da2,current_user.AgentId=> 
+
+时间:2019-01-08 00:08:39,719 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:08:39,775 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:42,356 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:08:42,423 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:08:42,423 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:08:43,969 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=e10adc3949ba59abbe56e057f20f883e&token= 
+
+时间:2019-01-08 00:08:44,086 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":1,"msg":"FAIL","name":""}} 
+
+时间:2019-01-08 00:13:05,986 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:13:05,986 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:13:06,046 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:13:06,046 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:13:06,102 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:13:06,102 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:13:06,159 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:13:06,159 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>85bee79a-66ba-4334-a11c-5dd855002a71,current_user.AgentId=> 
+
+时间:2019-01-08 00:13:06,159 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:13:06,215 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:13:07,578 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:13:07,641 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:13:07,641 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:13:08,538 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:13:08,655 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:14:38,361 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:14:38,361 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:38,420 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:14:38,420 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:38,475 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:14:38,476 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:38,530 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:14:38,530 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>69fdedad-19c6-4e9f-9ab8-eaf07dcf4df2,current_user.AgentId=> 
+
+时间:2019-01-08 00:14:38,531 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:38,587 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:14:44,516 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:44,578 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1, 
+
+时间:2019-01-08 00:14:44,579 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>GroupRegister>>>>>>>,current_user.Id=>1 
+
+时间:2019-01-08 00:14:45,049 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseLogon&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:14:45,154 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:14:46,059 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>,value=>30010,1,GroupOwner 
+
+时间:2019-01-08 00:14:46,059 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>SUCCESS!!!!! 
+
+时间:2019-01-08 00:14:48,075 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:14:48,075 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,131 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,131 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,204 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,204 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,259 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,259 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>0c72f3a1-51d3-4a92-9605-a00d9f541a14,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:14:48,260 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,315 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,316 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,375 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,375 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,431 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,431 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,489 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,489 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,546 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,546 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,618 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,618 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,674 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,674 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:14:48,676 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,736 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,826 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:14:48,826 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,896 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,896 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:48,952 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:48,953 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,008 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,008 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>33b36655-f5c4-4fa0-9d6d-7860ab4b912c,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:14:49,008 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,064 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,065 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,121 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,121 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,177 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,177 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,244 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,244 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,299 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,299 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,354 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,354 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,413 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:49,413 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:14:49,414 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:49,474 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:57,742 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:14:57,742 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:57,798 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:57,798 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:57,856 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:57,857 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:57,913 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:57,913 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>bd799006-0c39-41f3-8114-297ba5fed506,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:14:57,913 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:57,969 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:57,969 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,026 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,026 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,081 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,082 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,137 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,137 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,207 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,207 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,269 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,269 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:14:58,326 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:14:58,326 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:15:09,105 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:15:09,107 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:09,203 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,109 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:15:45,109 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,223 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,223 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,279 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,279 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>09623da2-0632-4723-9b59-494a0dc54b76,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:15:45,279 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,349 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,349 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,405 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,405 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,462 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,462 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,517 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,517 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,574 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,574 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,631 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,631 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,686 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:45,686 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:15:45,686 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:45,750 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,672 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:15:54,673 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:54,729 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,730 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:54,785 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,785 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:54,839 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,839 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>217cda1c-bf5a-4908-abab-bc4fd3fab2be,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:15:54,839 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:54,905 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,905 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:54,961 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:54,961 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:55,016 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:55,016 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:55,072 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:55,073 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:55,128 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:55,128 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:55,184 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:55,184 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:55,247 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:55,247 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:15:58,665 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:15:58,665 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:15:58,733 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:15:58,847 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:15:58,847 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:15:58,964 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:15:59,000 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:15:59,008 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:15:59,057 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:16:01,937 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:02,187 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,061 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:16:07,061 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,230 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,230 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>9217b187-b473-4487-a7f3-3417690d5847,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:16:07,230 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,285 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,285 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,411 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,412 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,469 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,469 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,533 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,533 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,588 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,589 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:07,644 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:07,644 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:16:10,569 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:16:10,569 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:16:10,635 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:16:10,749 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:16:10,749 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:16:10,799 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:16:10,799 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:16:10,799 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:16:10,847 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:17:02,345 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:02,406 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,087 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:17:28,087 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,155 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,155 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,211 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,211 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,266 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,266 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>7e91c4bd-a4e0-4585-bc29-049928f724ec,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:17:28,266 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,324 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,324 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,380 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,380 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,436 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,436 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,491 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,491 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,548 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,548 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,624 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,624 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:28,680 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:28,680 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:17:29,801 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:17:29,801 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:17:29,868 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:17:29,998 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:17:29,998 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:17:30,106 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:17:30,107 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:17:30,107 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:17:30,156 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:18:10,085 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:18:10,085 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,086 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,086 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,227 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,227 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,293 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>9d456390-809d-439f-a6b0-9bf145c49254,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:18:11,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,350 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,350 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,422 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,422 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,477 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,477 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,535 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,535 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,649 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,649 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,704 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:11,705 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:18:11,705 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:11,785 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,490 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:18:17,490 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,548 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,548 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,620 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,620 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,678 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,678 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>1b2d3d44-3920-45e1-846a-33ecf3d73e4e,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:18:17,678 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,734 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,734 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,790 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,791 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,848 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,848 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,904 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,904 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:17,974 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:17,974 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:18,030 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:18,030 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:18,087 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:18,087 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:18:19,086 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:18:19,086 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:19,158 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:18:19,283 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:18:19,284 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:18:19,401 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:18:19,401 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:18:19,401 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:18:19,448 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:18:33,850 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:33,939 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:34,027 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:34,121 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,019 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,109 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,199 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,288 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,739 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:18:35,796 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:49,299 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>Register>>>>>>>,return_url=>http://score.mxiong.com.cn/User/ThridCallback?returnUrl=GroupRegister, session_url=> 
+
+时间:2019-01-08 00:27:51,075 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,userid=>702347,gameid=>702557 
+
+时间:2019-01-08 00:27:54,771 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>ThridCallback>>>>>>>,systemUser.UserId=>702347,returnUrl=>GroupRegister 
+
+时间:2019-01-08 00:27:54,773 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>,value=>30010,1,GroupOwner 
+
+时间:2019-01-08 00:27:54,774 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>SET>>>>>>>SUCCESS!!!!! 
+
+时间:2019-01-08 00:27:55,047 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:27:55,049 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:55,272 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:55,272 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:55,430 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:55,430 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:55,488 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:55,488 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>4ea4639b-1c06-4024-92ad-42913ebb3635,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:27:55,488 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:55,543 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,457 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,539 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,629 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:27:57,629 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,692 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,692 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,749 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,749 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,805 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,805 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>7af2bdbd-511a-406d-9361-3f98aaf8c510,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:27:57,805 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,860 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,861 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,917 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,918 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:57,974 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:57,974 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:58,063 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:58,063 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:58,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:58,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:58,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:58,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:58,231 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:27:58,231 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:27:58,232 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:27:58,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:28:03,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,190 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,190 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,246 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,246 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,301 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,301 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>fe300b46-320a-4936-b290-3c7f5bb0a024,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:28:03,301 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,357 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,357 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,413 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,413 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,468 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,468 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,530 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,530 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,585 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,585 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,670 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,670 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,725 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,725 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:28:03,727 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,784 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,854 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:28:03,854 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,909 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,909 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:03,967 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:03,967 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,031 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,031 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>1cde182c-a7dc-44f3-88cb-abe80c4dabb2,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:28:04,031 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,088 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,088 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,144 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,144 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,199 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,199 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,266 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,266 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,321 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,321 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,376 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,376 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,432 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:04,432 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:28:04,432 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:04,490 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:07,989 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:28:07,989 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,045 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,045 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,099 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,099 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,155 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,155 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>7ad3ad7f-f28b-4361-9a1b-3b3eeee84e14,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:28:08,155 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,210 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,210 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,286 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,286 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,342 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,398 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,398 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,455 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,455 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,514 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,514 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,576 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,576 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:28:08,577 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,634 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,702 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:28:08,702 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,758 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,759 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,814 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,814 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,883 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,883 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>dbcd4244-9579-4cd1-8dce-1c2ee0bfd3e2,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:28:08,883 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,939 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,939 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:08,994 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:08,994 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,050 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:09,050 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,105 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:09,105 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,161 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:09,161 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,215 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:09,215 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:09,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:28:09,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:09,337 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:15,762 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:28:15,763 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:15,820 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:15,820 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:15,875 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:15,875 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:15,930 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:15,930 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>ae44fbb5-7058-45eb-b33c-fc60a49813ce,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:28:15,930 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:15,986 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:15,986 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,050 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,050 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,105 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,105 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,160 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,160 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,215 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,215 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,271 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:16,328 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:16,328 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:28:20,900 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:28:20,901 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:20,982 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:28:21,100 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:28:21,102 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:28:21,247 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:28:21,393 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:28:21,400 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:28:21,450 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:28:28,509 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:28:28,756 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,311 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:29:18,311 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,368 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,368 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,425 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,425 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,480 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,480 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>4e5b6480-a772-48fb-9e28-cf8f7207667e,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:29:18,480 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,537 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,537 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,592 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,592 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,647 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,647 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,702 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,702 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,761 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,761 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,818 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,818 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:18,873 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:18,873 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:29:22,969 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:29:22,969 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:23,034 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:23,150 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:29:23,150 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:29:23,248 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:29:23,249 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:29:23,249 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:29:23,298 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+
+时间:2019-01-08 00:29:28,411 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:28,477 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,445 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserAuthorizeAttribute>>>>>>>,OnAuthorization,RUN TO Authorization CHECK 
+
+时间:2019-01-08 00:29:30,445 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,502 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,503 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,558 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,558 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,613 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,613 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>b46cc2e9-6d52-413a-93e7-d2810eddad49,current_user.AgentId=>30010 
+
+时间:2019-01-08 00:29:30,613 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,669 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,669 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,725 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,725 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,808 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,808 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,864 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,864 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,920 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,920 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:30,978 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:30,978 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:31,045 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:31,045 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30010,webContext.CurrentUser.Id=>1 
+
+时间:2019-01-08 00:29:34,827 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub>>>>>>> Start query club 
+
+时间:2019-01-08 00:29:34,827 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,cookie.value=>1 
+
+时间:2019-01-08 00:29:34,892 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:WebContext=>SystemUser=>CurrentUser=>GET,>>>>>>>,datebase.user=>1,30010 
+
+时间:2019-01-08 00:29:35,838 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>> 本地不存在的俱乐部，向远端请求! 
+
+时间:2019-01-08 00:29:36,843 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=GetClubMember&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:29:36,895 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"count":2,"msg":"SUCCESS","members":"{\"code\":0,\"msg\":null,\"data\":{\"0\":\"[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]\",\"1\":\"[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]\"}}"}} 
+
+时间:2019-01-08 00:29:39,073 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>members={
+  "0": "[702349,702559,8032,1,1,karthus,http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epYG6Yr9CFpwe6VwakU6F6b5NmMRb9HHa3nOmLpX0sPvOvDTLZbBocrRy3Ev2FYBKtRibPqlN1j6Kg/132,oZCap0xFGY-c_s2q7LDMJFoUymP4,1]",
+  "1": "[702347,702557,8032,0,0,richtec,http://thirdwx.qlogo.cn/mmopen/vi_32/rFCDF8sCRkpWMptBQtjicCQQ0jNZ0lEFq7OVcAnNgvYjiaxvv2WoLs2loFPUO0VbLl8wHiaADLsXknJjL1mQbKurQ/132,oZCap0yjSDBxJrJ83GMzOWf9B-D0,1]"
+} 
+
+时间:2019-01-08 00:29:52,754 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,url=>http://sclz.mxiong.com.cn/WS/MobileInterface.ashx?action=CheckTeahouseClub&clubid=8032&agentaccount=30010&agentpwd=df24d5c7b49f9ae6c1eaf38df0938054&token= 
+
+时间:2019-01-08 00:29:52,804 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:NetWorkHelper>>>>>>>,result=>{"code":0,"msg":null,"data":{"valid":true,"result":0,"msg":"SUCCESS","name":"测试俱乐部"}} 
+

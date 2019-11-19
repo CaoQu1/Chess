@@ -1,0 +1,11 @@
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Chess.Utility.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Chess.Utility.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Autofac.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\log4net.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Autofac.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\log4net.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\obj\Debug\Chess.Utility.csprojResolveAssemblyReference.cache
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\obj\Debug\Chess.Utility.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Utility\obj\Debug\Chess.Utility.pdb

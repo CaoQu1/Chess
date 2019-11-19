@@ -1,0 +1,39 @@
+时间:2019-01-08 00:16:02,521 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:未将对象引用设置到对象的实例。 
+异常:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Chess.Controllers.UserController.QueryClub(String clubId) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess\Controllers\UserController.cs:行号 589
+ 
+-----------------------------------------
+
+时间:2019-01-08 00:17:24,056 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:未将对象引用设置到对象的实例。 
+异常:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Chess.Controllers.UserController.QueryClub(String clubId) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess\Controllers\UserController.cs:行号 589
+ 
+-----------------------------------------
+
+时间:2019-01-08 00:18:03,338 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:UserController=>QueryClub,新增俱乐部>>>>>>>,ex=>Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+语句已终止。 
+异常: 
+-----------------------------------------
+
+时间:2019-01-08 00:18:08,512 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+语句已终止。 
+异常:System.Data.SqlClient.SqlException (0x80131904): Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+语句已终止。 ---> System.ComponentModel.Win32Exception (0x80004005): 等待的操作过时。
+   在 Chess.Controllers.UserController.QueryClub(String clubId) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess\Controllers\UserController.cs:行号 556
+ClientConnectionId:3da54fd4-feb5-48a6-9c86-66446bc42bf9
+Error Number:-2,State:0,Class:11
+ 
+-----------------------------------------
+

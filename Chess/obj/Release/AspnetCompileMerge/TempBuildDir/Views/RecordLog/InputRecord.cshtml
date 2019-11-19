@@ -1,0 +1,43 @@
+﻿@using Chess.DtoModel.ViewModel;
+@{
+    Layout = null;
+    var PlayerList = ViewBag.PlayerList as List<PlayScoreViewModel>;
+    var RoomMessage = ViewBag.RoomMessage as RoomViewModel;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>输入战绩</title>
+    @Html.Partial("_Header")
+    <link href="~/Content/RecordLog/ClubMember.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="weui-cells weui_cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__bd weui-cell_primary">
+                <input class="weui-input" type="tel" placeholder="请粘贴战绩">
+            </div>
+        </div>
+    </div>
+    <div class="SureClick">
+        <a href="javascript:void(0);" class="weui-btn weui-btn_plain-primary" onclick="serch()">查询</a>
+    </div>
+    @Html.Partial("_Scripts")
+    <script type="text/javascript">
+        function serch()
+        {
+            var value = $(".weui-input").val(),
+                param;
+            if (value)
+                param = 'recordLogStr=' + value;
+            var url = ['/RecordLog/GetRecordLog', param].join('?');
+            window.location.href = url;
+        }
+    </script>
+</body>
+</html>

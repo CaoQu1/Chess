@@ -1,0 +1,271 @@
+﻿@using Chess.DtoModel
+@{
+    Layout = null;
+    var user = ViewBag.User as SystemUser;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+    <meta content="webkit" name="renderer">
+    <title>俱乐部管理</title>
+    @Html.Partial("_Header")
+    <link href="~/Content/RecordLog/ClubMember.css" rel="stylesheet" />
+    <style>
+        .SureClick {
+            width: 70%;
+            margin: 0 auto;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .mask {
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.40);
+            position: absolute;
+            z-index: 999;
+            display: none;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body id="main">
+    <div class="mask">
+        <div class="weui-loadmore" style="margin-top:200px;">
+            <i class="weui-loading"></i>
+            <span class="weui-loadmore__tips">正在加载</span>
+        </div>
+    </div>
+    <input id="adminPayCode" type="hidden" value="" />
+    <div style="width:100%;height:1rem">
+        @*<label style="margin-top:1rem;color:#3cc51f"><< 新增俱乐部</label>*@
+    </div>
+    <input hidden="hidden" id="hidden_url" />
+    <div class="weui-cells weui-cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__hd">编号：</div>
+            <div class="weui-cell__bd weui-cell_primary">
+                <input class="weui-input" type="text" placeholder="请输入俱乐部编号" name="clubId" id="clubId">
+            </div>
+            <div class="weui-cell__ft"><a href="javascript:;" class="weui-btn weui-btn_primary" onclick="adminHelper.query()">查询/绑定</a></div>
+        </div>
+    </div>
+    <div class="weui-cells weui-cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__hd"><label class="weui_label" for="paymoney">房费：</label></div>
+            <div class="weui-cell__bd weui-cell_primary">
+                <input class="weui-input" type="text" placeholder="请输入房费" name="paymoney" id="paymoney">
+            </div>
+        </div>
+        <div class="weui-cell">
+            <div class="weui-cell__hd"><label class="weui_label0" for="rate">倍率：</label></div>
+            <div class="weui-cell__bd weui-cell_primary">
+                <input class="weui-input" type="text" placeholder="请输入倍率" name="rate" id="rate">
+            </div>
+        </div>
+        <div class="weui-cell">
+            <div class="weui-cell__bd">
+                <div class="weui-uploader">
+                    <div class="weui-uploader__hd">
+                        <p class="weui-uploader__title" onclick="adminHelper.open_alert('admin')" style="color:#3cc51f">收款码</p>
+                    </div>
+                    <div class="weui-uploader__bd">
+                        <ul class="weui-uploader__files" id="uploaderFiles">
+                            <li class="weui-uploader__file weui-uploader__file_status">
+                            </li>
+                        </ul>
+                        <div class="weui-uploader__input-box">
+                            <input id="reciveCode" class="weui-uploader__input" type="file" accept="image/*" multiple="" name="reciveCode">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="weui-flex weui-btn-area">
+        <div class="weui-flex__item">
+            <a class="weui-btn weui-btn_primary" onclick="adminHelper.update()" style="margin-right:10px">确认修改</a>
+        </div>
+        <div class="weui-flex__item">
+            <a href="javascript:;" class="weui-btn weui-btn_primary" onclick="adminHelper.copy()" style="margin-left:10px">复制链接</a>
+        </div>
+    </div>
+    <table cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0px 10px;font-size:12px;width:100%;">
+        <thead style="border-spacing:0px 0px 10px 0px;">
+            <tr style="background-color:#1aad19;color:white;box-shadow:inset #1aad19 10px 10px;height:40px;">
+                <td width="33%" align="center">昵称</td>
+                <td width="34%" align="center">付款码</td>
+            </tr>
+        </thead>
+        <tbody id="members"></tbody>
+    </table>
+
+    @Html.Partial("_Scripts")
+    <script src="~/Scripts/ajaxfileupload.js"></script>
+    <script type="text/javascript">
+        $(document).on("change", "#reciveCode", function () {
+            var reader = new FileReader();
+            reader.onload = function (evt) {
+                $(".weui-uploader__file_status").html('<img src=' + evt.target.result + ' width="90px" height="90px"/>');
+            }
+            reader.readAsDataURL(this.files[0]);
+        });
+        //页面帮助对象
+        var adminHelper =
+            {
+                data: {
+                    title: '',
+                    text: '',
+                    buttons: []
+                },
+                modal: function () {
+                    $.modal({
+                        title: this.data.title,
+                        text: this.data.text,
+                        buttons: this.data.buttons
+                    });
+                },
+                clubel: $("#clubId"),
+                query: function () {
+                    $.ajax({
+                        url: "/User/QueryClub", type: 'get', data: { clubId: this.clubel.val() }, dataType: 'json', beforeSend: function () {
+                            $(".mask").show();
+                        },
+                        success: function (result) {
+                            $(".mask").hide();
+                            if (result.IsSuccess) {
+                                $("#paymoney").val(result.Data.RoomMoney);
+                                $("#rate").val(result.Data.Rate);
+                                $("#adminPayCode").val(result.Data.PayImage);
+                                $("#members").empty();
+                                $.each(result.Data.ClubMemberViews, function (k, v) {
+                                    var payimage = "<div onclick='this.open_alert(" + v.PayImage + ")'><span style='color:green;'>查看</span></div>", headimage;
+                                    if (!v.HeadImage) {
+                                        headimage = "暂无";
+                                    }
+                                    else {
+                                        headimage = ' <img style="width:100%;height:auto;vertical-align:middle" src="' + v.HeadImage + '" />';
+                                    }
+                                    if (!v.PayImage) {
+                                        payimage = "<div><span style='color:red;'>未上传</span></div>"
+                                    }
+                                    $("#members").append('<tr><td align="center" width="33%">\
+                                    <div style="width:100%;vertical-align:middle;overflow:hidden;word-break:break-word;word-wrap:break-word;">\
+                                   <div style="width:30%;border:1px solid #ccc;display:inline-block;min-height:30px;vertical-align:middle">'+ headimage + '</div><div style="display:inline-block;width:60%">\
+                                    <p>'+ v.NickName + '</p></div></div></td><td align="center" width="34%">' + payimage + '</td></tr>');
+                                });
+                            }
+                            else {
+                                $.toast(result.Message, "forbidden");
+                            }
+                        }
+                    });
+                },
+                update: function () {
+                    var _this = this;
+                    var clubid = this.clubel.val();
+                    var money = $("#paymoney").val();
+                    var rate = $("#rate").val();
+                    $.ajaxFileUpload({
+                        type: 'post',
+                        url: '/User/EditClub', //用于文件上传的服务器端请求地址
+                        secureuri: false, //是否需要安全协议，一般设置为false
+                        fileElementId: 'reciveCode', //文件上传域的ID
+                        dataType: 'json', //返回值类型 一般设置为json
+                        data: { clubId: clubid, paymoney: money, rate: rate },
+                        beforeSend: function () {
+                            $(".mask").show();
+                        },
+                        success: function (data, status)  //服务器成功响应处理函数
+                        {
+                            $(".mask").hide();
+                            if (data.IsSuccess) {
+                                $("#paymoney").val(data.Data.RoomMoney);
+                                $("#rate").val(data.Data.Rate);
+                                $("#adminPayCode").val(data.Data.PayImage);
+                                $.toast(data.Message);
+                                _this.query();
+                            }
+                            else {
+                                if (!data.Message) {
+                                    data.Message = "保存失败!";
+                                }
+                                $.toast(data.Message, "forbidden");
+                            }
+                        },
+                        error: function (data, status, e)//服务器响应失败处理函数
+                        {
+                            $.toast(e, "forbidden");
+                        }
+                    });
+                },
+                copy: function () {
+                    var clubId = this.clubel.val().trim();
+                    if (!clubId) {
+                        $.toast("请先查询俱乐部信息", "forbidden");
+                        return;
+                    }
+                    $.ajax({
+                        url: "/user/GenerateShortUrl", data: { clubId: clubId }, type: 'get', dataType: 'json', beforeSend: function () {
+                            $(".mask").show();
+                        }, success: function (result) {
+                            $(".mask").hide();
+                            if (!result.IsSuccess) {
+                                $.toast(result.Message, "forbidden");
+                                return;
+                            }
+                            else {
+                                var inputText = $("#hidden_url");
+                                var copyText = result.Data;
+                                console.log(inputText.val(), copyText);
+                                if (navigator.userAgent.match(/(iPhone|iPod|iPad);?/i)) {
+                                    window.getSelection().removeAllRanges();
+                                    var range = document.createRange();
+                                    range.selectNode(copyText[0]);
+                                    util.console.log('range:', range);
+                                    window.getSelection().addRange(range);
+                                    var result = document.execCommand('copy');
+                                    if (result) {
+                                        $.toast('复制成功');
+                                    } else {
+                                        $.toast('复制失败', "forbidden");
+                                    }
+                                    window.getSelection().removeAllRanges();
+                                } else {
+                                    inputText.select();
+                                    var result = document.execCommand('copy', false);
+                                    if (result) {
+                                        $.toast('复制成功');
+                                    } else {
+                                        $.toast('复制失败', "forbidden");
+                                    }
+                                }
+                            }
+                        }
+                    });
+                },
+                open_alert: function (paycode) {
+                    var adminPayImage = $("#adminPayCode").val();
+                    if (paycode == 'admin' && !adminPayImage) {
+                        $.toast("请先绑定收款码", "forbidden");
+                        return;
+                    }
+                    paycode = paycode == 'admin' ? adminPayImage : paycode;
+                    var _this = this;
+                    _this.data.title = "查看";
+                    _this.data.text = "<div><img style='width:6rem;height:6rem' src='data:image/png;base64," + paycode + "'/></div>";
+                    _this.data.buttons = [{ text: "取消", className: "default", onClick: function () { console.log(3) } }];
+                    _this.modal();
+                }
+            }
+    </script>
+</body>
+</html>

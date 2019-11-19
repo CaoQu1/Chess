@@ -1,0 +1,695 @@
+时间:2018-12-10 22:30:49,183 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:return_url=>http://score.mxiong.com.cn/User/ThridCallback?returnUrl=GroupRegister 
+
+时间:2018-12-10 22:30:49,310 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:userid=>702347,gameid=>702557 
+
+时间:2018-12-10 22:30:53,262 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:systemUser.UserId=>702347,returnUrl=>GroupRegister 
+
+时间:2018-12-10 22:30:53,263 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:value=>30002,1,GroupOwner 
+
+时间:2018-12-10 22:30:53,313 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:53,444 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:53,444 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:53,625 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:53,625 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:53,842 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:53,842 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>3f98d3ff-be99-4fe9-ab3a-90e73104603c,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:30:53,842 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:54,017 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:58,689 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:58,886 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:58,979 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,166 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,340 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,340 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,515 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,515 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>e99f1f89-9b0a-4ba0-9cfe-890babe663a4,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:30:59,515 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,664 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,665 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,802 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,802 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:30:59,944 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:30:59,944 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:31:00,832 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:31:00,832 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:31:01,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:31:01,174 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:31:01,474 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:31:01,474 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:31:01,733 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:31:01,733 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30002,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-10 22:31:01,734 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:31:01,953 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:02,768 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:03,072 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:03,072 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:03,370 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:03,370 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:03,637 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:03,637 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>766a74a7-8a55-40ce-9926-b6fa1d56d345,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:32:03,637 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:03,895 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:03,895 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:04,115 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:04,115 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:04,331 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:04,331 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:04,509 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:04,509 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:04,684 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:04,684 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:04,868 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:04,868 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:05,043 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:05,043 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30002,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-10 22:32:05,044 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:05,896 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:06,102 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:06,445 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:06,445 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:06,710 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:06,710 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:06,968 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:06,968 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>0814efc3-6bd0-432c-b00e-79ab83dc4825,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:32:06,968 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:07,193 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:07,193 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:07,412 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:07,412 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:07,588 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:07,588 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:07,763 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:07,763 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:07,973 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:07,973 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:08,568 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:08,569 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:09,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:09,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30002,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-10 22:32:09,124 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:09,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:10,314 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:10,849 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:28,119 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:28,339 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:28,340 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:28,556 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:28,556 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:28,771 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:28,771 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>a28591da-c5b9-4534-9bf6-8b9213325715,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:32:28,771 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:28,948 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:28,948 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:29,123 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:29,123 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:29,298 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:29,298 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:29,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:29,473 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:30,123 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:30,123 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:30,546 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:30,546 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:30,844 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:30,844 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30002,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-10 22:32:30,844 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:31,107 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:31,225 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:31,447 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:31,447 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:31,663 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:31,663 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:31,923 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:31,923 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:webContext.CurrentUser.Id=>1,webContext.InstanceId=>5c327e78-4a49-49b7-a23c-e5a82c3984f7,current_user.AgentId=>30002 
+
+时间:2018-12-10 22:32:31,923 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:32,261 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:32,261 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:32,519 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:32,519 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:32,864 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:32,864 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:33,245 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:33,245 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:33,547 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:33,547 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:33,808 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:33,808 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:34,042 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:34,042 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.AgentId=>30002,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-10 22:32:34,042 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:34,345 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-10 22:32:35,114 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-10 22:32:35,257 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+

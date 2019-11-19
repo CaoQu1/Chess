@@ -1,0 +1,121 @@
+时间:2018-12-01 00:12:18,732 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:12:18,732 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:12:18,739 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:12:18,739 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:12:22,281 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-01 00:12:22,281 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.value=>System.Data.Entity.DynamicProxies.SystemUser_C9F5DE5B1C0839FCD7DA5A1A6718F35BEFCE13956883179CF486AF4105373CF0 
+
+时间:2018-12-01 00:12:26,924 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:datebase.user=>1,30002 
+
+时间:2018-12-01 00:12:26,924 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.value=>System.Data.Entity.DynamicProxies.SystemUser_C9F5DE5B1C0839FCD7DA5A1A6718F35BEFCE13956883179CF486AF4105373CF0 
+
+时间:2018-12-01 00:12:26,924 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:移除原因：主动调用了set|remove方法移除对象:Chess.User.1=System.Data.Entity.DynamicProxies.SystemUser_C9F5DE5B1C0839FCD7DA5A1A6718F35BEFCE13956883179CF486AF4105373CF0
+ 
+
+时间:2018-12-01 00:12:35,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:12:35,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:12:35,294 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.IsExists=>True 
+
+时间:2018-12-01 00:13:09,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:13:09,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:13:09,594 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.IsExists=>True 
+
+时间:2018-12-01 00:13:09,595 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-01 00:13:39,695 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:13:39,695 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:13:39,695 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.IsExists=>True 
+
+时间:2018-12-01 00:13:39,695 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.Id=>1 
+
+时间:2018-12-01 00:14:45,353 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cookie.value=>1 
+
+时间:2018-12-01 00:14:45,353 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.key=>Chess.User.1 
+
+时间:2018-12-01 00:14:45,353 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:cache.IsExists=>True 
+
+时间:2018-12-01 00:14:45,353 
+级别:INFO 
+类名:Chess.Utility.LogHelper 
+内容:IsAuthorization=>True,webContext.CurrentUser.UserIdentity=>GroupOwner,webContext.CurrentUser.Id=>1 
+

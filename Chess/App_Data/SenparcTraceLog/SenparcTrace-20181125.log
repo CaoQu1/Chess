@@ -1,0 +1,513 @@
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 15:13:41]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 15:13:41]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 15:13:41]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 15:13:41]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 15:14:41]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 15:14:41]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 15:14:41]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 15:14:41]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 15:15:19]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 15:15:19]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 15:15:19]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 15:15:19]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 17:48:13]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 17:48:13]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 17:48:13]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 17:48:13]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 18:21:39]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 18:21:39]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 18:21:39]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 18:21:39]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 18:22:52]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 18:22:52]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 18:22:52]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 18:22:52]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 18:25:26]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 18:25:26]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 18:25:26]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 18:25:26]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 18:27:17]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 18:27:17]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 18:27:17]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 18:27:17]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 19:58:59]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 19:58:59]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 19:58:59]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 19:58:59]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:05:22]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:05:22]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:05:22]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:05:22]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:16:51]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:16:51]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:16:51]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:16:52]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:23:07]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:23:07]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:23:07]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:23:08]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:23:52]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:23:52]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:23:52]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:23:52]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:29:56]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:29:56]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:29:56]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:29:56]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:37:13]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:37:13]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:37:13]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:37:13]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:38:14]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:38:14]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:38:14]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:38:14]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:39:27]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:39:27]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:39:27]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:39:27]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:40:28]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:40:28]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:40:28]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:40:28]
+[线程：1]
+    日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2018/11/25 20:42:09]
+[线程：1]
+    注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/11/25 20:42:09]
+[线程：1]
+    微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.4.12.1, Culture=neutral, PublicKeyToken=null]]]
+[2018/11/25 20:42:09]
+[线程：1]
+    System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2018/11/25 20:42:10]
+[线程：1]
+    日志开始

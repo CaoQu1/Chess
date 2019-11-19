@@ -1,0 +1,203 @@
+﻿@using Chess.DtoModel.ViewModel;
+@using Chess.DtoModel;
+@{
+    Layout = null;
+    var PlayerList = ViewBag.PlayerList as List<PlayScoreViewModel>;
+    var RoomMessage = (ViewBag.RoomMessage as RoomViewModel) ?? new RoomViewModel();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>查看战绩</title>
+    @Html.Partial("_Header")
+    <link href="~/Content/RecordLog/ClubMember.css" rel="stylesheet" />
+    <style type="text/css">
+        .weui-form-preview:after {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    @*群主名片变量*@
+    <input id="adminPayCode" type="hidden" value="@RoomMessage.PayCodeUrl" />
+    <input id="GameId" value="@ViewBag.GameId" type="hidden" />
+    <div class="weui-form-preview">
+        @if (PlayerList != null)
+        {
+            <div class="weui-form-preview__hd">
+                <div class="weui-form-preview__item">
+                    <label class="weui-form-preview__label">房间号</label>
+                    <em class="weui-form-preview__value">@ViewBag.RoomID</em>
+                </div>
+            </div>
+        }
+
+        <div class="weui-form-preview__bd">
+            @*<div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">房费</label>
+                <span class="weui-form-preview__value">@RoomMessage.PayMoney 元</span>
+            </div>
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">倍率</label>
+                <span class="weui-form-preview__value">@RoomMessage.Rate 倍</span>
+            </div>*@
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">会长名片</label>
+                <span class="weui-form-preview__value" onclick="recordHelper.pay_by_admin()">查看</span>
+            </div>
+        </div>
+    </div>
+    <table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate;border-spacing:0px 10px;font-size:12px;">
+        <thead style="border-spacing:0px 0px 10px 0px;">
+            <tr style="background-color:#1aad19;color:white;box-shadow:inset #1aad19 10px 10px;height:40px;">
+                <td width="33%" align="center">昵称</td>
+                <td width="33%" align="center">得分</td>
+                <td width="34%" align="center">名片</td>
+            </tr>
+        </thead>
+        <tbody>
+            @if (PlayerList != null && PlayerList.Any())
+            {
+                foreach (var item in PlayerList)
+                {
+                    <tr>
+                        <td align="center" width="33%">
+                            <div style="width:100%;vertical-align:middle;overflow:hidden;word-break:break-word;word-wrap:break-word;">
+                                <div style="width:30%;display:inline-block;min-height:30px;vertical-align:middle">
+                                    <img style="width:100%;height:100%;" src="@item.HeadImgUrl" />
+                                </div>
+                                <div style="display:inline-block;width:60%">
+                                    <p>@item.NickName </p>
+                                    <p>id:@item.GameId</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td align="center" width="33%">
+                            <div style="display:inline-block;width:30%">
+                                @if (item.Winner)
+                                {
+                                <img style="width:100%;height:auto;" src="~/Images/crown.png" />
+                                }
+                            </div>
+                            <div style="display:inline-block">@item.Score</div>
+                        </td>
+                        <td align="center" width="34%">
+                            <div onclick="recordHelper.open_alert('@item.PayCodeUrl',@item.GameId)">
+                                @*onclick="recordHelper.open_alert(@item.PayCodeUrl)"*@
+                                查看
+                                @if (item.PayState == EnumPayStatus.Paid)
+                                {<span style="color:#1aad19">✔</span>}
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div class="SureClick">
+        @if (PlayerList == null)
+        {
+            <a href="javascript:;"  onclick="recordHelper.open_alert('@ViewBag.UserPayCode',@ViewBag.GameId)" class="weui-btn weui-btn_primary">上传名片</a>
+        }
+        else
+        {
+            <a href="javascript:;" onclick="PayState(@ViewBag.RecId)" class="weui-btn weui-btn_primary">确认并关闭</a>
+            <a href="javascript:;" onclick="closeWx()" class="weui-btn weui-btn_primary">直接关闭</a>
+        }
+    </div>
+    @Html.Partial("_Scripts")
+    <script type="text/javascript">
+        var recordHelper = {
+            data: {
+                title: '',
+                text: '',
+                buttons: []
+            },
+            modal: function () {
+                $.modal({
+                    title: this.data.title,
+                    text: this.data.text,
+                    buttons: this.data.buttons
+                });
+            },
+            init: function (message) {
+                $.toast(message);
+            },
+            pay_by_admin: function (paycode) {
+                var paycode = $("#adminPayCode").val();
+                var _this = this;
+                _this.data.title = "会长名片";
+                if (paycode == "" || paycode == null) {
+                    _this.data.text = "<div>用户还未上传名片</div>";
+                } else {
+                    _this.data.text = "<div><img style='max-width:100%;height:auto;display:inline-block;' src='@ViewBag.Web\@RoomMessage.PayCodeUrl'/></div>";
+                }
+                _this.data.buttons = [
+                { text: "关闭", className: "default", onClick: function () { console.log(3) } }];
+                _this.modal();
+            },
+            open_alert: function (Paycode, GameId, recId) {
+                var _this = this;
+                _this.data.buttons = [];
+                _this.data.title = "名片";
+                if (Paycode == "" || Paycode == null) {
+                    _this.data.text = "<div>用户还未上传名片</div>";
+                } else {
+                    _this.data.text = "<div><img style='max-width:100%;height:auto;display:inline-block;' src='@ViewBag.Web\/" + Paycode + "'/></div>";
+                }
+               
+                if (GameId == $("#GameId").val() && Paycode == "") {
+                    _this.data.buttons.push({
+                        text: "上传", className: "default", onClick: function () {
+                            $.get("/common/_uploadattachment", { ClubId: '@ViewBag.ClubId ', RoomId: '@ViewBag.RoomId' }, function (result) {
+                                _this.data.text = result;
+                                _this.modal();
+                            })
+                        }
+                    });
+                }
+                if (GameId == $("#GameId").val() && Paycode != "") {
+                    _this.data.buttons.push({
+                        text: "更换", className: "default", onClick: function () {
+                            $.get("/common/_uploadattachment", { ClubId: '@ViewBag.ClubId ', RoomId: '@ViewBag.RoomId' }, function (result) {
+                                _this.data.text = result;
+                                _this.modal();
+                            })
+                        }
+                    });
+                }
+                _this.data.buttons.push({ text: "关闭", className: "default", onClick: function () { console.log(3) } });
+                _this.modal();
+            }
+        }
+        var message = '@ViewBag.Message';
+        if (message)
+            recordHelper.init(message);
+
+        function PayState(recId) {
+            $.ajax({
+                url: "/RecordLog/ChangePayState",
+                type: 'POST', //GET
+                async: true,    //或false,是否异步
+                data: { recId: recId },
+                timeout: 10000,    //超时时间
+                dataType: 'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                success: function (data) {
+                    if (data == 1) {
+                        location.reload();
+                        closeWx();
+                    }
+                }
+            });
+        }
+        function closeWx() {
+            window.close();
+            WeixinJSBridge.call('closeWindow');
+        }
+    </script>
+</body>
+</html>

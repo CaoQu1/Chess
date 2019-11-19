@@ -1,0 +1,38 @@
+﻿@using Chess.Utility
+@model CustomException
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="UTF-8">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+    <meta content="webkit" name="renderer">
+    <title>错误页</title>
+    @Html.Partial("_Header")
+</head>
+<body>
+    <div class="weui-msg">
+        <div class="weui-msg__icon-area"><i class="weui-icon-cancel weui-icon_msg"></i></div>
+        <div class="weui-msg__text-area">
+            <h2 class="weui-msg__title">操作失败</h2>
+            <p class="weui-msg__desc">@(Model != null ? Model.Message : "")</p>
+        </div>
+        <div class="weui-msg__extra-area">
+            <div class="weui-footer">
+                <p class="weui-footer__links">
+                    <a href="javascript:void(0);" class="weui-footer__link">工作室出品</a>
+                </p>
+                <p class="weui-footer__text">Copyright © 2016-2018</p>
+            </div>
+        </div>
+    </div>
+    @Html.Partial("_Scripts")
+</body>
+</html>

@@ -1,0 +1,621 @@
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 20:51:20.1566]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 20:51:20.1627]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 20:51:20.2077]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 20:51:20.2157]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 20:51:20.5481]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 20:58:01.7753]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 20:58:01.7813]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 20:58:01.8243]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 20:58:01.8293]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 20:58:02.0185]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:00:13.4294]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:00:13.4355]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:00:13.4785]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:00:13.4845]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:00:13.6714]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:02:33.5852]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:02:33.5922]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:02:33.6398]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:02:33.6468]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:02:33.8406]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:05:38.0247]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:05:38.0307]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:05:38.0768]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:05:38.0828]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:05:38.2694]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:06:23.7561]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:06:23.7771]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:06:24.1223]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:06:24.3525]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:17:02.1867]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:17:02.2018]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:17:02.5316]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:17:02.7752]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:22:35.5803]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:22:35.5863]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:22:35.6384]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:22:35.6444]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:22:35.8426]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:24:36.2096]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:24:36.2161]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:24:36.2604]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:24:36.2664]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:24:36.4542]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:26:50.5053]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:26:50.5113]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:26:50.5564]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:26:50.5624]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:26:50.7521]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:31:10.0795]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:31:10.0965]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:31:10.4434]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:31:10.6746]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:36:09.1038]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:36:09.1098]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:36:09.1583]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:36:09.1653]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:36:09.3625]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:38:39.4312]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:38:39.4382]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:38:39.4823]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:38:39.4888]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:38:39.6793]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 21:40:42.9476]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 21:40:42.9536]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 21:40:42.9977]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 21:40:43.0037]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 21:40:43.2008]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 23:03:15.1257]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 23:03:15.1327]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 23:03:15.1788]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 23:03:15.1848]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 23:03:15.4154]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 23:11:05.8419]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 23:11:05.8479]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 23:11:05.8940]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 23:11:05.9010]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 23:11:06.0922]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 23:56:08.8672]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 23:56:08.8732]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 23:56:08.9192]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 23:56:08.9252]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 23:56:09.1124]
+[线程：1]
+日志开始
+
+[[[自动注册扩展缓存完成]]]
+[2019/01/07 23:56:35.1214]
+[线程：1]
+注册总用时：0ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2019/01/07 23:56:35.1274]
+[线程：1]
+微信扩展缓存注册总用时：0ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[RegisterApiBind() 自动扫描程序集异常：Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]]]
+[2019/01/07 23:56:35.1725]
+[线程：1]
+System.Reflection.ReflectionTypeLoadException: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+   在 System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   在 System.Reflection.RuntimeModule.GetTypes()
+   在 System.Reflection.Assembly.GetTypes()
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[RegisterApiBind() 自动扫描程序集异常：Senparc.Weixin.MP, Version=16.5.0.0, Culture=neutral, PublicKeyToken=null]]]
+[2019/01/07 23:56:35.1795]
+[线程：1]
+System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 Senparc.NeuChar.ApiBind.ApiBindInfoCollection.Add(MethodInfo method, ApiBindAttribute apiBindAttr)
+   在 Senparc.NeuChar.Register.RegisterApiBind()
+
+[[[全局日志]]]
+[2019/01/07 23:56:35.3726]
+[线程：1]
+日志开始
+

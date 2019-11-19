@@ -1,0 +1,157 @@
+﻿@using Chess.DtoModel.ViewModel;
+@using Chess.DtoModel;
+@{
+    Layout = null;
+    var PlayerList = ViewBag.PlayerList as List<PlayScoreViewModel>;
+    var RoomMessage = (ViewBag.RoomMessage as RoomViewModel) ?? new RoomViewModel();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>查看战绩</title>
+    @Html.Partial("_Header")
+    <link href="~/Content/RecordLog/ClubMember.css" rel="stylesheet" />
+    <style type="text/css">
+        .weui-form-preview:after {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    @*群主收款码变量*@
+    <input id="adminPayCode" type="hidden" value="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542776771703&di=f14b09387eb83ea09d2746ddf0042c73&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fcb8065380cd791239c70f4bda7345982b3b78062.jpg" />
+    <div class="weui-form-preview">
+        <div class="weui-form-preview__hd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">房间号</label>
+                <em class="weui-form-preview__value">@ViewBag.RoomID</em>
+            </div>
+        </div>
+        <div class="weui-form-preview__bd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">房费</label>
+                <span class="weui-form-preview__value">@RoomMessage.PayMoney 元</span>
+            </div>
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">倍率</label>
+                <span class="weui-form-preview__value">@RoomMessage.Rate 倍</span>
+            </div>
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">收款码</label>
+                <span class="weui-form-preview__value" onclick="recordHelper.pay_by_admin()">查看</span>
+            </div>
+        </div>
+    </div>
+    <table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate;border-spacing:0px 10px;font-size:12px;">
+        <thead style="border-spacing:0px 0px 10px 0px;">
+            <tr style="background-color:#1aad19;color:white;box-shadow:inset #1aad19 10px 10px;height:40px;">
+                <td width="33%" align="center">昵称</td>
+                <td width="33%" align="center">得分</td>
+                <td width="34%" align="center">付款状态</td>
+            </tr>
+        </thead>
+        <tbody>
+            @if (PlayerList != null && PlayerList.Any())
+            {
+                foreach (var item in PlayerList)
+                {
+                    <tr>
+                        <td align="center" width="33%">
+                            <div style="width:100%;vertical-align:middle;overflow:hidden;word-break:break-word;word-wrap:break-word;">
+                                <div style="width:30%;border:1px solid #ccc;display:inline-block;min-height:30px;vertical-align:middle">
+                                    <img style="width:100%;height:100%;" src="@item.HeadImgUrl" />
+                                </div>
+                                <div style="display:inline-block;width:60%">
+                                    <p>@item.NickName </p>
+                                    <p>id:@item.GameId</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td align="center" width="33%">
+                            <div style="display:inline-block;width:30%">
+                                @if (item.Winner)
+                                {
+                                    <img style="width:100%;height:auto;" src="~/Images/crown.png" />
+                                }
+                            </div>
+                            <div style="display:inline-block">@item.Score</div>
+                        </td>
+                        <td align="center" width="34%">
+                            <div onclick="recordHelper.open_alert(@item.PayCodeImg)">查看 @if (item.PayState == EnumPayStatus.Paid)
+                            { <span style="color:#1aad19">✔</span>}</div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div class="SureClick">
+        <a href="javascript:;" class="weui-btn weui-btn_primary">确定</a>
+    </div>
+    @Html.Partial("_Scripts")
+    <script type="text/javascript">
+        var recordHelper = {
+            data: {
+                title: '',
+                text: '',
+                buttons: []
+            },
+            modal: function () {
+                $.modal({
+                    title: this.data.title,
+                    text: this.data.text,
+                    buttons: this.data.buttons
+                });
+            },
+            init: function (message) {
+                $.toast(message);
+            },
+            pay_by_admin: function (paycode) {
+                var _this = this;
+                _this.data.title = "支付房费";
+                _this.data.text = "<div><img style='width:6rem;height:6rem' src='" + paycode + "'/></div>";
+                _this.data.buttons = [
+                { text: "取消", className: "default", onClick: function () { console.log(3) } }];
+                _this.modal();
+            },
+            open_alert: function (paycode) {
+                var _this = this;
+                _this.data.title = "支付";
+                _this.data.text = "<div><img style='width:6rem;height:6rem' src='" + paycode + "'/></div>";
+                _this.data.buttons = [{
+                    text: "我已支付", className: "default", onClick: function () {
+                        $.ajax({
+                            url: "/RecordLog/ChangePayState",
+                            type: 'POST', //GET
+                            async: true,    //或false,是否异步
+                            data: { ProjectGuid: ProjectGuid },
+                            timeout: 10000,    //超时时间
+                            dataType: 'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                            success: function (data) {
+
+                            }
+                        });
+
+                    }
+                }, {
+                    text: "更换", className: "default", onClick: function () {
+                        $.get("/common/_uploadattachment", {addparameter:'@ViewBag.RecordStr'}, function (result) {
+                            _this.data.text = result;
+                            _this.modal();
+                        })
+                    }
+                },
+                { text: "取消", className: "default", onClick: function () { console.log(3) } }];
+                _this.modal();
+            }
+        }
+        var message = '@ViewBag.Message';
+        if (message)
+            recordHelper.init(message);
+    </script>
+</body>
+</html>

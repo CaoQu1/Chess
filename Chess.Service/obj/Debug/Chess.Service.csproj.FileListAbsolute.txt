@@ -1,0 +1,16 @@
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.Service.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.Service.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.Domain.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.DtoModel.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\EntityFramework.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\AutoMapper.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.Domain.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\Chess.DtoModel.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\EntityFramework.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\AutoMapper.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\AutoMapper.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Debug\Chess.Service.csprojResolveAssemblyReference.cache
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Debug\Chess.Service.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Debug\Chess.Service.pdb

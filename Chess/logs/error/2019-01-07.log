@@ -1,0 +1,64 @@
+时间:2019-01-07 21:31:40,112 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:执行命令定义时出错。有关详细信息，请参阅内部异常。 
+异常:System.Data.Entity.Core.EntityCommandExecutionException: 执行命令定义时出错。有关详细信息，请参阅内部异常。 ---> System.InvalidOperationException: 已有打开的与此 Command 相关联的 DataReader，必须首先将它关闭。
+   在 System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   在 System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   在 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<>c__DisplayClassb.<Reader>b__8()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TInterceptionContext,TResult](Func`1 operation, TInterceptionContext interceptionContext, Action`1 executing, Action`1 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   在 System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClassb.<GetResults>b__a()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClassb.<GetResults>b__9()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Lazy`1.CreateValue()
+   在 System.Lazy`1.LazyInitValue()
+   在 System.Lazy`1.get_Value()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__1[TResult](IEnumerable`1 sequence)
+   在 System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   在 System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   在 System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   在 System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 Chess.Web.Framework.WebContext.get_CurrentUser() 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess.Web.Framework\WebContext.cs:行号 51
+   在 Chess.Web.Framework.Attibute.UserAuthorizeAttribute.IsAuthorize() 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess.Web.Framework\Attibute\UserAuthorizeAttribute.cs:行号 98
+   在 Chess.Web.Framework.Attibute.UserAuthorizeAttribute.OnAuthorization(AuthorizationContext filterContext) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess.Web.Framework\Attibute\UserAuthorizeAttribute.cs:行号 51
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__0(AsyncCallback asyncCallback, Object asyncState)
+ 
+-----------------------------------------
+
+时间:2019-01-07 23:04:13,922 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:未将对象引用设置到对象的实例。 
+异常:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Chess.Controllers.UserController.QueryClub(String clubId) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess\Controllers\UserController.cs:行号 785
+ 
+-----------------------------------------
+
+时间:2019-01-07 23:11:24,056 
+级别:ERROR 
+类名:Chess.Utility.LogHelper 
+内容:未将对象引用设置到对象的实例。 
+异常:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Chess.Controllers.UserController.QueryClub(String clubId) 位置 C:\Users\caoqu\Documents\Visual Studio 2015\Projects\Chess\Chess\Controllers\UserController.cs:行号 793
+ 
+-----------------------------------------
+

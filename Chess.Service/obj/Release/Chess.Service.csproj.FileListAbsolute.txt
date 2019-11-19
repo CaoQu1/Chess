@@ -1,0 +1,16 @@
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.Service.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.Service.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.Domain.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.DtoModel.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\EntityFramework.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\AutoMapper.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\System.ValueTuple.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.Domain.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\Chess.DtoModel.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\EntityFramework.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\AutoMapper.pdb
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\AutoMapper.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\bin\Release\System.ValueTuple.xml
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Release\Chess.Service.csprojResolveAssemblyReference.cache
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Release\Chess.Service.dll
+C:\Users\caoqu\documents\visual studio 2015\Projects\Chess\Chess.Service\obj\Release\Chess.Service.pdb
